@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hi there! 👋
 
+Me chamo Filipi, sou um dev em aprendizado e busco desenvolver minhas habilidades em desenvolvimento de software e desenvolvimento web. Além disso, me interesso muito pela área de game dev.
 <!--
 **filipi-r/filipi-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
