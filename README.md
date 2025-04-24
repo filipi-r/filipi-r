@@ -3,6 +3,7 @@
 Me chamo Filipi, sou um dev em aprendizado e busco desenvolver minhas habilidades em desenvolvimento de software e desenvolvimento web. Além disso, me interesso muito pela área de game dev.
 
 -📓Cursando de Sistema de Informação na Universidade de São Paulo (USP)
+
 -🗣️Inglês Avançado e Espanhol Intermediário certificados.
 
 <!--
