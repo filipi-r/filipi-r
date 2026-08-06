@@ -14,7 +14,7 @@
 
 ### 🎓 About me
 
-I'm a 3rd-semester student of **Information Systems** at **USP (University of São Paulo)**. I've been learning **Java** and **C** for software development, as well as **Unity** (with C#) and **LOVE2D** (with Lua) for game development.
+I'm a 4th-semester student of **Information Systems** at **USP (University of São Paulo)**. I've been learning **Java** and **C** for software development, as well as **Unity** (with C#) and **LOVE2D** (with Lua) for game development.
 
 - 🔭 Currently involved in game development and computer graphics projects at **Conway USP**
 - 🌱 Learning about algorithms, data structures, OOP, and computer architecture
