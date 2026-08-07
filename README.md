@@ -49,6 +49,7 @@ I'm a 4th-semester student of **Information Systems** at **USP (University of S�
 - **Exercício Programa** — Java program featuring file reading, automated builds, and automated testing with Maven, JUnit, and mutation testing via PITest.
 - **Word Indexer** — C program that indexes words from `.txt` files using lists and trees, comparing performance between the two implementations.
 - **Patient Priority List Organizer** — C program applying sorting algorithms (counting sort, insertion sort, among others) to prioritize patients from a `.csv` file based on urgency and waiting time.
+- **OOP Refactoring Game** - University project focused on applying OOP principles to rewrite a simple shoot 'em up game written in Java.
 
 ---
 
